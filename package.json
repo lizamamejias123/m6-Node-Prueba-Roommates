@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.13",
+    "url": "^0.11.0",
+    "uuid": "^8.3.2"
+  },
+  "name": "apoyo-prueba---roommates",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Lizama",
+  "license": "ISC",
+  "description": ""
+}
